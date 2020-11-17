@@ -1,0 +1,11 @@
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\obj\Debug\netcoreapp3.0\zadaca1.csprojAssemblyReference.cache
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\obj\Debug\netcoreapp3.0\zadaca1.AssemblyInfoInputs.cache
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\obj\Debug\netcoreapp3.0\zadaca1.AssemblyInfo.cs
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca1.exe
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca1.deps.json
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca1.runtimeconfig.json
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca1.runtimeconfig.dev.json
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca1.dll
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca1.pdb
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\obj\Debug\netcoreapp3.0\zadaca1.dll
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\obj\Debug\netcoreapp3.0\zadaca1.pdb

@@ -1,0 +1,10 @@
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca.exe
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca.deps.json
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca.runtimeconfig.json
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca.runtimeconfig.dev.json
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca.dll
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\bin\Debug\netcoreapp3.0\zadaca.pdb
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\obj\Debug\netcoreapp3.0\zadaca.AssemblyInfoInputs.cache
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\obj\Debug\netcoreapp3.0\zadaca.AssemblyInfo.cs
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\obj\Debug\netcoreapp3.0\zadaca.dll
+C:\Users\cavala\source\repos\zadaca1\zadaca1\zadaca1\obj\Debug\netcoreapp3.0\zadaca.pdb
